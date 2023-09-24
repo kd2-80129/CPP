@@ -4,7 +4,7 @@ using namespace std;
 class tollbooth
 {
 private:
-    unsigned totalCars;
+    unsigned int totalCars;
     double totalCash;
     int nonPayingCars;
     int payingCars;
